@@ -1,5 +1,5 @@
 # Readme
-Application code used for the github wiz halftime demo
+This is used in the 'Verify WizCLI Scans and Confirm Production Deployment' lab.
 
 You will need gulp installed to build this
 
